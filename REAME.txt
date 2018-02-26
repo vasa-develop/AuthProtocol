@@ -1,2 +1,3 @@
 AUTH PROTOCOL
-this is a dev version of authprotocol.
+
+This is a dev version of authprotocol.
